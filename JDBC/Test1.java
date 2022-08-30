@@ -2,7 +2,6 @@ package JDBC;
 
 import java.sql.*;
 import java.util.Properties;
-
 import com.jcraft.jsch.JSch;
 
 import com.jcraft.jsch.Session;
